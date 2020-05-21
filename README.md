@@ -1,2 +1,2 @@
 # backend
-node/express server for mongodb
+node/express rest api for mongodb server
